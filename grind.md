@@ -1,3 +1,6 @@
+[Home](.)
+
+
 ## Grind
 
 [Download Grind 1.17](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind-1.17/Grind.Setup.exe)
