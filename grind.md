@@ -1,6 +1,3 @@
-[Home](.)
-
-
 ## Grind
 
 [Download Grind 1.17](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind-1.17/Grind.Setup.exe)
@@ -16,3 +13,5 @@ I started writing it in early 2012 from a desire for a simple, fast, effective g
 I have vague plans to make Grind open source one day ... but no promises ...
 
 ![Grind screenshot](Grind1.png "Grind screenshot")
+
+[Home](.)
