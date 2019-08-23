@@ -1,6 +1,6 @@
 ## Grind
 
-[Download Grind](https://github.com/Arjailer/Grind/releases/latest/download/Grind.Setup.exe)
+[Download Grind](releases/Grind-1.17/download/Grind.Setup.exe)
 
 Grind is a grep _(global / regular expression / print)_ tool for Windows 7 and above.
 
