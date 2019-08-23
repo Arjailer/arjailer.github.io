@@ -10,6 +10,6 @@ SafePad 2 is an encrypted text editor for Windows.
 
 It uses AES256 encryption with PBKDF2 password hashing using an SHA256 based HMAC.
 
-![SafePad 2 screenshot](SafePad2.png "SafePad 2 screenshot")
+![SafePad 2 screenshot](SafePad2.png)
 
 [Home](.)
