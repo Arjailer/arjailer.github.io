@@ -1,6 +1,6 @@
 ## Grind
 
-<a href=https://onedrive.live.com/download?cid=0A3FFC9C1ABCED42&resid=A3FFC9C1ABCED42%21613&authkey=AJFR6s_1CRRZWvE" target="_blank">Download Grind 1.17</a>
+[Download Grind v1.17](Grind Setup.exe)
 
 Grind is a grep _(global / regular expression / print)_ tool for Windows 7 and above.
 
@@ -10,4 +10,4 @@ Grind needs .NET Framework 4.5.2 and Windows 7 or later
 
 I have vague plans to make Grind open source one day ... but no promises ...
 
-![Grind screenshot](https://https://arjailer.github.io/grind1.png "Grind screenshot")
+![Grind screenshot](Grind1.png "Grind screenshot")
