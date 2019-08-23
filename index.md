@@ -10,4 +10,4 @@ Grind needs .NET Framework 4.5.2 and Windows 7 or later
 
 I have vague plans to make Grind open source one day ... but no promises ...
 
-![Grind screenshot](https://https://arjailer.github.io/images/grind1.png "Grind screenshot")
+![Grind screenshot](https://https://arjailer.github.io/grind1.png "Grind screenshot")
