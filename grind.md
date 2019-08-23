@@ -2,7 +2,7 @@
 
 [Download Grind 1.17](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind-1.17/Grind.Setup.exe)
 
-Grind needs .NET Framework 4.5.2 on Windows 7 or later
+_Grind needs .NET Framework 4.5.2 on Windows 7 or later_
 
 ---
 
