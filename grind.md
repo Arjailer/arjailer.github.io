@@ -14,4 +14,6 @@ I have vague plans to make Grind open source one day ... but no promises ...
 
 ![Grind screenshot](Grind1.png)
 
+---
+
 [Home](.)
