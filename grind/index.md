@@ -14,4 +14,4 @@ I started writing it in early 2012 from a desire for a simple, fast, effective g
 
 I have vague plans to make Grind open source one day ... but no promises ...
 
-![Grind screenshot](../Grind1.png)
+![Grind screenshot](Grind1.png)
