@@ -3,9 +3,9 @@
 
 @import "{{ site.theme }}";
 
-@media screen and (min-width: 64em){.project-header{ height: 1.5rem; padding: 0.25rem; }}
-@media screen and (min-width: 42em) and (max-width: 64em){.project-header{ height: 1.5rem; padding: 0.25rem; }}
-@media screen and (max-width: 42em){.project-header{ height: 1.5rem; padding: 0.25rem; }}
+@media screen and (min-width: 64em){.project-header{ height: 1rem; padding: 0.1rem; }}
+@media screen and (min-width: 42em) and (max-width: 64em){.project-header{ height: 1rem; padding: 0.1rem; }}
+@media screen and (max-width: 42em){.project-header{ height: 1rem; padding: 0.1rem; }}
 
 .site-footer
 {
