@@ -10,7 +10,7 @@ Gun Wing is a simple little shoot-em-up for Windows that I wrote in [Blitz3D](ht
 
 It didn't turn out to be as much fun as I'd hoped but I learned a lot writing it.
 
-![Gun Wing screenshot](GunWing1.jpg)
+![Gun Wing screenshot](../GunWing1.jpg)
 
 <br/><br/>
 
