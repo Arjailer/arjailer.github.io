@@ -16,4 +16,4 @@ It uses AES256 encryption with PBKDF2 password hashing using an SHA256 based HMA
 
 ---
 
-[Home](.)
+[Home](../.)
