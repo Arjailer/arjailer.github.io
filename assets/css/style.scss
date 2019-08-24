@@ -11,10 +11,6 @@
   margin:0;
 }
 
-@media screen and (min-width: 64em){.project-header{ height: 1.5rem }}
-@media screen and (min-width: 42em) and (max-width: 64em){.project-header{ height: 1.5rem }}
-@media screen and (max-width: 42em){.project-header{ height: 1.5rem }}
-
 .site-footer
 {
   visibility: hidden;
