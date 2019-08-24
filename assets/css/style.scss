@@ -14,16 +14,16 @@
   visibility: hidden;
 }
 
-#project-name a:hover,
-#project-name a:visited,
-#project-name a:link,
-#project-name a:active
+.project-name a:hover,
+.project-name a:visited,
+.project-name a:link,
+.project-name a:active
 {
   color: white;
   text-decoration: none;
 }
 
-#project-name a:hover,
+.project-name a:hover,
 {
   color: white;
   text-decoration: underline;
