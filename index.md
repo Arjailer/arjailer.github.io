@@ -1,4 +1,4 @@
-I'm a C# Windows coder by profession and these are some of my more interesting Windows side-projects
+I'm a Windows coder by profession and these are some of side-projects
 
 <br/>
 
