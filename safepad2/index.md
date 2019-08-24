@@ -6,6 +6,8 @@ _SafePad 2 needs .NET Framework 4.7.2 on Windows 7 or later_
 
 ---
 
+<br />
+
 SafePad 2 is an encrypted text editor for Windows.
 
 It uses AES256 encryption with PBKDF2 password hashing using an SHA256 based HMAC.
