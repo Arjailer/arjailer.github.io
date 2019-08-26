@@ -14,9 +14,9 @@ It uses AES256 encryption with PBKDF2 password hashing using an SHA256 based HMA
 
 ![SafePad 2 screenshot](SafePad2.png)
 
----
-
 <br />
+
+---
 
 ### Version history
 
