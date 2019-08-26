@@ -2,6 +2,8 @@
 
 [Download Grind v1.17](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind-1.17/Grind.Setup.exe) (22 July 2019, ~4.5MB)
 
+[What's new in this version?](#history)
+
 _Grind needs .NET Framework 4.5.2 on Windows 7 or later_
 
 ---
@@ -21,6 +23,8 @@ I have vague plans to make Grind open source one day ... but no promises ...
 ---
 
 ### Version history
+
+<a name="history"></a>
 
 **v1.17**  (22 July 2019) 
 - **(changed)**  Increased text file maximum line length from 5000 to 9600 to match AvalonEdit's maximum line length. Above this files are displayed with the binary file viewer instead. 
