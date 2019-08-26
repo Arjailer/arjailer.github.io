@@ -20,9 +20,9 @@ It uses AES256 encryption with PBKDF2 password hashing using an SHA256 based HMA
 
 ---
 
-### Version history
-
 <a name="history"></a>
+
+### Version history
 
 **v2.03**  (22 July 2019) 
 - **(changed)**  Minor changes to icons and the installer. 
