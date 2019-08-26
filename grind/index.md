@@ -24,7 +24,7 @@ I have vague plans to make Grind open source one day ... but no promises ...
 
 <a name="history"></a>
 
-### Version history
+### Grind version history
 
 **v1.17**  (22 July 2019) 
 - **(changed)**  Increased text file maximum line length from 5000 to 9600 to match AvalonEdit's maximum line length. Above this files are displayed with the binary file viewer instead. 
