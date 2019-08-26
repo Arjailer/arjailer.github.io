@@ -1,6 +1,6 @@
 ## SafePad 2
 
-[Download SafePad v2.03](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2.03/SafePad.2.Setup.exe) (22 July 2019, ~2MB)
+[Download SafePad v2.03](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2.03/SafePad.2.Setup.exe) <br /> (22 July 2019, ~2MB)
 
 [What's new in this version?](#history)
 
