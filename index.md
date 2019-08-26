@@ -2,7 +2,7 @@ I'm a Windows coder by profession and these are some of my more interesting side
 
 <br/>
 
-- [Grind](grind), a grep tool
+- [Grind](grind), a visual grep tool
 
 - [SafePad 2](safepad2), an encrypted text editor
 
