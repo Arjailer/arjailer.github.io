@@ -10,7 +10,7 @@ _Grind needs .NET Framework 4.5.2 on Windows 7 or later_
 
 <br />
 
-Grind is a grep _(global / regular expression / print)_ tool for Windows.
+Grind is a visual grep tool for Windows.
 
 I started writing it in early 2012 from a desire for a simple, fast, effective grep tool, primarily for my own use. I also wanted to put some of the technologies I'd been learning into practice _(things like WPF MVVM, the Managed Extensibility Framework, the Task Parallel Library, and Async / Await)_.
 
