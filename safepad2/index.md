@@ -2,6 +2,8 @@
 
 [Download SafePad v2.03](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2.03/SafePad.2.Setup.exe) (22 July 2019, ~2MB)
 
+[What's new in this version?](#history)
+
 _SafePad 2 needs .NET Framework 4.7.2 on Windows 7 or later_
 
 ---
@@ -19,6 +21,8 @@ It uses AES256 encryption with PBKDF2 password hashing using an SHA256 based HMA
 ---
 
 ### Version history
+
+<a name="history"></a>
 
 **v2.03**  (22 July 2019) 
 - **(changed)**  Minor changes to icons and the installer. 
