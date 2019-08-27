@@ -1,4 +1,4 @@
-<h2><img src="icon.png" width="64"><span>Gun Wing</span></h2>
+## Gun Wing
 
 [Download Gun Wing](https://github.com/Arjailer/arjailer.github.io/releases/download/GunWing-1.1/GunWing.Setup.exe) <br /> (February 2007, ~6MB)
 
@@ -13,4 +13,3 @@ Gun Wing is a simple little shoot-em-up for Windows that I wrote in [Blitz3D](ht
 It didn't turn out to be as much fun as I'd hoped but I learned a lot writing it.
 
 ![Gun Wing screenshot](GunWing1.jpg)
-
