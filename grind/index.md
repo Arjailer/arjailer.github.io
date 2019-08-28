@@ -12,9 +12,7 @@ _Grind needs .NET Framework 4.5.2 on Windows 7 or later_
 
 Grind is a visual grep tool for Windows.
 
-I started writing it in early 2012 from a desire for a simple, fast search tool for my own use. I'm still working on it.
-
-I have vague plans to make Grind open source one day ... but no promises ...
+I started writing it in early 2012 as a simple, fast search tool for my own use. It's become quite popular amongst the developers where I work, and I still work on it from time to time.
 
 ![Grind screenshot](Grind1.png)
 
