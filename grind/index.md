@@ -4,7 +4,7 @@
 
 [What's new in this version?](#history)
 
-_Grind needs .NET Framework 4.5.2 on Windows 7 or later_
+_Grind needs [.NET Framework 4.5.2](https://dotnet.microsoft.com/download) or later on Windows 7 or later_
 
 ---
 
