@@ -4,7 +4,7 @@
 
 [What's new in this version?](#history)
 
-_SafePad 2 needs .NET Framework 4.7.2 on Windows 7 or later_
+_SafePad 2 needs [.NET Framework 4.7.2](https://dotnet.microsoft.com/download) or later, on Windows 7 or later_
 
 ---
 
