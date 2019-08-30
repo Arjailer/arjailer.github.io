@@ -1,6 +1,6 @@
 ## SafePad 2
 
-[Download SafePad v2.03](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2.03/SafePad.2.Setup.exe) <br /> (22 July 2019, ~2MB)
+[Download SafePad v2.04](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2.03/SafePad.2.Setup.exe) <br /> (30 August 2019, ~2MB)
 
 [What's new in this version?](#history)
 
@@ -12,7 +12,7 @@ _SafePad 2 needs [.NET Framework 4.7.2](https://dotnet.microsoft.com/download) o
 
 SafePad 2 is an encrypted text editor for Windows.
 
-It uses AES256 encryption with PBKDF2 password hashing using an SHA256 based HMAC.
+It uses AES256 encryption with Argon2 password hashing.
 
 ![SafePad 2 screenshot](SafePad2.png)
 
@@ -23,6 +23,9 @@ It uses AES256 encryption with PBKDF2 password hashing using an SHA256 based HMA
 <a name="history"></a>
 
 ### SafePad 2 version history
+
+**v2.04**  (30 August 2019) 
+- **(changed)**  Replaced PBKDF2 password hashing with Argon2.
 
 **v2.03**  (22 July 2019) 
 - **(changed)**  Minor changes to icons and the installer. 
