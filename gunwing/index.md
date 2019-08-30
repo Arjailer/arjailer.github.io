@@ -1,6 +1,6 @@
 ## Gun Wing
 
-[Download Gun Wing](https://github.com/Arjailer/arjailer.github.io/releases/download/GunWing-1.1/GunWing.Setup.exe) <br /> (February 2007, ~6MB)
+[Download Gun Wing](https://github.com/Arjailer/arjailer.github.io/releases/download/GunWing/GunWing.Setup.exe) <br /> (February 2007, ~6MB)
 
 _Gun Wing itself should run on anything from Windows 95 onward, but the installer only supports Windows XP or later_
 
