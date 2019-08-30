@@ -1,6 +1,6 @@
 ## Grind
 
-[Download Grind v1.17](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind-1.17/Grind.Setup.exe) <br /> (22 July 2019, ~4.5MB)
+[Download Grind v1.17](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe) <br /> (22 July 2019, ~4.5MB)
 
 [What's new in this version?](#history)
 
