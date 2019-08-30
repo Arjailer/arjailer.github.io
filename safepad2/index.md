@@ -12,7 +12,7 @@ _SafePad 2 needs [.NET Framework 4.7.2](https://dotnet.microsoft.com/download) o
 
 SafePad 2 is an encrypted text editor for Windows.
 
-It uses AES256 encryption with Argon2 password hashing.
+It uses [AES256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) encryption with [Argon2](https://en.wikipedia.org/wiki/Argon2) password hashing.
 
 ![SafePad 2 screenshot](SafePad2.png)
 
