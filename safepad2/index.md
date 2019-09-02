@@ -26,8 +26,6 @@ It uses [AES256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) enc
 
 ### SafePad 2 version history
 
-_**From v2.04 onwards SafePad 2 will be 64-bit only**_
-
 **v2.04**  (30 August 2019) 
 - **(changed)**  Replaced PBKDF2 password hashing with Argon2.
 
