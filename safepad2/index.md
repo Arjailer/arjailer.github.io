@@ -2,7 +2,7 @@
 
 [Download SafePad v2.05](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2/SafePad.2.Setup.exe)
 <br />
-(30 August 2019, ~2MB)
+(1 February 2020, ~2MB)
 
 _SafePad 2 needs [.NET Framework 4.7.2](https://dotnet.microsoft.com/download) or later, on 64-bit Windows 7 or later_
 
