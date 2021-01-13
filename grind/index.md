@@ -4,7 +4,7 @@
 <br />
 (28 August 2020, ~4.5MB)
 
-_Grind needs [.NET Framework 4.5.2](https://dotnet.microsoft.com/download) or later, on Windows 7 or later_
+_Grind needs [.NET Framework 4.5.2](https://dotnet.microsoft.com/download/dotnet-framework) or later, on Windows 7 or later_
 
 ---
 
