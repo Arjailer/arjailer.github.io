@@ -1,6 +1,6 @@
 ## Grind
 
-[Download Grind v1.30](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)
+[Download Grind v1.31](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)
 <br />
 (10 December 2021, ~5.5MB)
 
