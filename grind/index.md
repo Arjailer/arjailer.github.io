@@ -1,8 +1,8 @@
 ## Grind
 
-[Download Grind v1.32](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)
+[Download Grind v1.33](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)
 <br />
-(14 February 2022, ~5.5MB)
+(11 October 2022, ~5.5MB)
 
 _Grind needs [.NET Framework 4.5.2 Runtime](https://dotnet.microsoft.com/download/dotnet-framework) or later, on Windows 7 or later_
 
