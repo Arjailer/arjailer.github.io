@@ -1,10 +1,14 @@
 ## Grind
 
-[Download Grind v1.41](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)
+[Download Grind v1.50](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)
 <br />
-(19 January 2024, ~7.5MB)
+(4 March 2024, ~11.6MB)
 
-_Grind needs [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework) or later, on Windows 7 or later_
+_Grind needs [.Net 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), on Windows 10 version 1809 or later_
+
+---
+
+_[Grind v1.41](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind-dotnet-4/Grind.Setup.v1.41.exe) is the last version that used the [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework), and runs on Windows 7 or later_
 
 ---
 
