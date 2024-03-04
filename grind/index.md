@@ -6,6 +6,8 @@
 
 _Grind needs [.Net 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), on Windows 10 version 1809 or later_
 
+<br />
+
 ---
 
 _[Grind v1.41](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind-dotnet-4/Grind.Setup.v1.41.exe) is the last version that used the [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework), and runs on Windows 7 or later_
