@@ -2,7 +2,7 @@
 
 [Download Grind v1.50](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)
 <br />
-<sup>4 March 2024, ~11.6MB</sup>
+<sup>4 March 2024, 11.6MB</sup>
 
 _Grind needs [.Net 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), on Windows 10 version 1809 or later_
 
