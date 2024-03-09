@@ -4,13 +4,13 @@
 <br />
 <sup>4 March 2024, 11.6MB</sup>
 
-_Grind needs [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), on Windows 10 version 1809 or later_
+_Grind needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0#runtime-desktop-8.0.2) on Windows 10 version 1809 or later_
 
 <br />
 
 ---
 
-<sub>[Grind v1.41](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind-dotnet-4/Grind.Setup.v1.41.exe) is the last version that used the [.NET Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework) and runs on Windows 7 or later</sub>
+<sub>[Grind v1.41](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind-dotnet-4/Grind.Setup.v1.41.exe) is the last version that used [.NET Framework 4.8](https://dotnet.microsoft.com/download/dotnet-framework) and runs on Windows 7 or later</sub>
 
 <sup>_Note that to downgrade from a later version you should uninstall the later version before installing the earlier version_</sup>
 
