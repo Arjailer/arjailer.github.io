@@ -4,7 +4,7 @@
 <br />
 <sup>11 February 2020, 2MB</sup>
 
-_SafePad 2 needs [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework) or later, on 64-bit Windows 7 or later_
+_SafePad 2 needs [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework) on 64-bit Windows 7 or later_
 
 ---
 
