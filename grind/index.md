@@ -4,7 +4,7 @@
 <br />
 <sup>4 March 2024, 11.6MB</sup>
 
-_Grind needs [.Net 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), on Windows 10 version 1809 or later_
+_Grind needs [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), on Windows 10 version 1809 or later_
 
 <br />
 
