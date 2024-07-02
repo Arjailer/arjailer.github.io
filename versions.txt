@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Products>
 
-	<Product ID="AlanBroad.Grind" Version="1.53" Date="29 May 2024" DateAsDate="2024-05-29 15:34:00" NewDownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe" DownloadURL="https://onedrive.live.com/download?cid=0A3FFC9C1ABCED42&amp;resid=A3FFC9C1ABCED42%21613&amp;authkey=AJFR6s_1CRRZWvE">
+	<Product ID="AlanBroad.Grind" Version="1.53" Date="29 May 2024" DateAsDate="2024-05-29 15:34:00" NewDownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
 		<ProductVersion Number="1.54" Date="2024-07-15" IsLive="false">
 			<Note Type="Fixed" Details="Some more tweaks behind the scenes as a result of tidying code." />
 			<Note Type="Changed" Details="Improved logging during startup." />
@@ -438,10 +438,10 @@
 		</ProductVersion>
 	</Product>
 
-	<Product ID="AlanBroad.Hestia.2" Version="2.0.0" Date="31 May 2011" DateAsDate="2011-05-31 16:26:00" DownloadURL="http://dl.dropbox.com/u/10006481/Saturn%202/Saturn%202%20Setup.exe" 
+	<Product ID="AlanBroad.Hestia.2" Version="2.0.0" Date="31 May 2011" DateAsDate="2011-05-31 16:26:00" NewDownloadURL="" DownloadURL="" 
 			 ReleaseNotesURL="https://sites.google.com/site/happycatshome/development/saturn-2/version-history" />
 
-	<Product ID="AlanBroad.Kiefer" Version="0.00" Date="12 March 2013" DateAsDate="2013-03-12 13:36:00" DownloadURL="https://dl.dropbox.com/u/10006481/Jeffrey/Jeffrey%20Setup.exe" />
+	<Product ID="AlanBroad.Kiefer" Version="0.00" Date="12 March 2013" DateAsDate="2013-03-12 13:36:00" NewDownloadURL="" DownloadURL="" />
 
 	<Product ID="AlanBroad.SafePad2" NewDownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2/SafePad.2.Setup.exe" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2/SafePad.2.Setup.exe">
 		<ProductVersion Number="2.05" Date="2020-02-11" IsLive="true">
