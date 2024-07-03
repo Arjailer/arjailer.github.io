@@ -157,7 +157,7 @@
 			<Note Type="Fixed" Details="Lots of minor tweaks as a result of writing lots of tests around existing code." />
 		</ProductVersion>
 		<ProductVersion Number="1.17" Date="2019-07-22" IsLive="true">
-			<Note Type="Changed" Details="Increased text file maximum line length from 5000 to 9600 to match AvalonEdit's maximum line length. Above this files are displayed with the binary file viewer instead." />
+			<Note Type="Changed" Details="Increased text file maximum line length from 5,000 to 9,600 to match AvalonEdit's maximum line length. Above this files are displayed with the binary file viewer instead." />
 			<Note Type="Changed" Details="Binary files no longer try to display Line or Character counts in those results columns." />
 			<Note Type="Changed" Details="Selection highlighting size limit options are now also applied to word highlighting." />
 			<Note Type="Changed" Details="Now uses a more memory efficient method for loading text files into the text viewer." />
@@ -172,7 +172,7 @@
 			<Note Type="New" Details="Showing the whole file path in the results list can now be toggled on and off, either in Options &gt; Results, or by right-clicking on the column headers." />
 			<Note Type="New" Details="New hot key for overriding the &quot;allow multiple instances&quot; option while starting Grind. Hot keys can be customised by right-clicking on the tray icon and selecting Options. See [HELP#tray] for details." />
 			<Note Type="Changed" Details="Roughly 30% improvement in Normal and Extended search speeds due to more efficient string comparisons." />
-			<Note Type="Fixed" Details="Text files with extremely long lines (over 5000 characters) would display extremely slowly, often seeming to never finish. This was due to limitations in the AvalonEdit text control, so these files are now displayed with the binary file viewer instead." />
+			<Note Type="Fixed" Details="Text files with extremely long lines (over 5,000 characters) would display extremely slowly, often seeming to never finish. This was due to limitations in the AvalonEdit text control, so these files are now displayed with the binary file viewer instead." />
 			<Note Type="Fixed" Details="Fixed crash if the detected file encoding was not supported by the Windows installation (e.g. Big-5 traditional Chinese character encoding on English installations). Now uses UTF-8 as a fallback." />
 			<Note Type="Fixed" Details="Minor bug fixes and stability improvements." />
 		</ProductVersion>
