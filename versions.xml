@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Products>
 
-	<Product ID="AlanBroad.Grind" Version="1.53" Date="29 May 2024" DateAsDate="2024-05-29 15:34:00" NewDownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
+	<Product ID="AlanBroad.Grind" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
 		<ProductVersion Number="1.54" Date="2024-07-03" IsLive="false">
 			<Note Type="Fixed" Details="Microsoft changed the OneDrive url format which broke Grind's update checking. Changed the update check to use a GitHub link instead." />
 			<Note Type="Fixed" Details="Lots of tweaks behind the scenes as a result of tidying code." />
@@ -236,7 +236,7 @@
 			<Note Type="Fixed" Details="Fixed occasional crash if moving through matches too quickly (e.g. with Ctrl+Left or Ctrl+Right)." />
 			<Note Type="Fixed" Details="Fixed infinite loop if a regex search returned zero-length matches." />
 		</ProductVersion>
-		<ProductVersion Number="1.03" Date="2017-08-15">
+		<ProductVersion Number="1.03" Date="2017-08-15" IsLive="true">
 			<Note Type="New" Details="Can now optionally search and view binary files. See the [HELP#binaryfiles] for limitations." />
 			<Note Type="New" Details="Added filter tab allowing searched files to be filtered by size and modified date. Tab is coloured when a filter is set. See [HELP#filter] for details." />
 			<Note Type="Changed" Details="Replaced the ribbon control with a more modern version." />
@@ -250,10 +250,10 @@
 			<Note Type="Fixed" Details="Fixed Grind hanging if large text selections were made with the selected text highlighting option enabled. Avoided by adding a maximum selection size option." />
 			<Note Type="Fixed" Details="Installer now checks for .NET Framework 4.5.2" />
 		</ProductVersion>
-		<ProductVersion Number="1.02" Date="2017-05-10">
+		<ProductVersion Number="1.02" Date="2017-05-10" IsLive="true">
 			<Note Type="Fixed" Details="Fixed build issue that was causing incorrect plugin versions to be distributed." />
 		</ProductVersion>
-		<ProductVersion Number="1.01" Date="2017-05-10">
+		<ProductVersion Number="1.01" Date="2017-05-10" IsLive="true">
 			<Note Type="New" Details="Can now search within the displayed file's contents by using the &quot;find in file&quot; box (Ctrl+F). Results are highlighted in green. Navigate with Ctrl+up and Ctrl+down. See the [HELP#findinfile] for more details." />
 			<Note Type="New" Details="Can search Google for words by holding the Alt key and clicking on the word to search for, or by selecting some text, right-clicking and selecting &quot;search Google for selected text&quot;." />
 			<Note Type="New" Details="Locations of highlighted words and selections are now shown in the scrollbar." />
@@ -263,7 +263,7 @@
 			<Note Type="Changed" Details="Grind now requires .NET Framework 4.5.2" />
 			<Note Type="Fixed" Details="Improved handling and reporting of registry writing errors. Particularly useful if your anti-virus program has started blocking writes to the registry keys required for running Grind in the notification tray at startup." />
 		</ProductVersion>
-		<ProductVersion Number="1.0" Date="2017-03-17">
+		<ProductVersion Number="1.0" Date="2017-03-17" IsLive="true">
 			<Note Type="New" Details="Added extended search and replace engine which can handle new lines at the end of lines (e.g. &quot;end\r\n&quot;) and tabs within a line (e.g. &quot;\t\tstart&quot;). Extended replace can remove new lines (e.g. replacing &quot;end\r\n&quot; with just &quot;end&quot;) or insert new lines (e.g. replacing &quot;end&quot; with &quot;end\r\n&quot;). Note that searches are still confined to a single line, so new lines in the middle of a search term (e.g. &quot;end\r\nstart&quot;) will not be found. See [HELP#replace] for details." />
 			<Note Type="New" Details="Regex search and replace can now handle new lines and tabs too." />
 			<Note Type="New" Details="Can drag all found files into other applications, such as Visual Studio or Explorer, by dragging the Matches tab header." />
@@ -273,7 +273,7 @@
 			<Note Type="Fixed" Details="Word highlighting didn't work if the word was the entire line." />
 			<Note Type="Fixed" Details="Searching files less than 2 bytes long would crash trying to determine if the file ended with a new line." />
 		</ProductVersion>
-		<ProductVersion Number="0.27" Date="2017-02-03">
+		<ProductVersion Number="0.27" Date="2017-02-03" IsLive="true">
 			<Note Type="New" Details="Can limit search to tick files only by selecting &quot;search ticked files&quot; on ribbon." />
 			<Note Type="New" Details="Can search for selected text by selecting some text, right-clicking and selecting &quot;search for selected text&quot; or &quot;search for selected text in ticked files&quot;." />
 			<Note Type="New" Details="Can search for words by holding the Ctrl key and clicking on the word to search for. Hold Shift+Ctrl to search in tick files only." />
@@ -283,70 +283,70 @@
 			<Note Type="Changed" Details="Updated all third party components to the latest versions." />
 			<Note Type="Fixed" Details="Added missing third party acknowledgements in About &gt; Third Party Components" />
 		</ProductVersion>
-		<ProductVersion Number="0.26" Date="2017-01-30">
+		<ProductVersion Number="0.26" Date="2017-01-30" IsLive="true">
 			<Note Type="Fixed" Details="Forgot to add ShellLib to the installer - fixed now." />
 		</ProductVersion>
-		<ProductVersion Number="0.25" Date="2017-01-30">
+		<ProductVersion Number="0.25" Date="2017-01-30" IsLive="true">
 			<Note Type="Fixed" Details="Matches at the very beginning of lines are now highlighted correctly." />
 			<Note Type="Fixed" Details="Removed the line number highlighter as it is no longer required." />
 		</ProductVersion>
-		<ProductVersion Number="0.24" Date="2017-01-27">
+		<ProductVersion Number="0.24" Date="2017-01-27" IsLive="true">
 			<Note Type="New" Details="Shell extension menu options are now available when right-clicking on a file (e.g. source control, virus scanner etc)" />
 			<Note Type="New" Details="Line numbers are now shown in their own area to the left of the file contents. Removes the need for hacks to deal with the cursor being in the line number area and looks neater." />
 			<Note Type="New" Details="Cursor position is now shown at the bottom-right of the screen." />
 		</ProductVersion>
-		<ProductVersion Number="0.23" Date="2017-01-11">
+		<ProductVersion Number="0.23" Date="2017-01-11" IsLive="true">
 			<Note Type="Fixed" Details="Navigating forwards caused crash if no file selected." />
 			<Note Type="Fixed" Details="Alt+tab would show an icon for the notification tray icon." />
 		</ProductVersion>
-		<ProductVersion Number="0.22" Date="2016-06-22">
+		<ProductVersion Number="0.22" Date="2016-06-22" IsLive="true">
 			<Note Type="New" Details="Search history. Added back and forward buttons to navigate through history. Right-click the buttons to see the history. Pre-requisite for starting searches based on selected text, which was added in 0.27 - see [HELP#history] for details." />
 			<Note Type="New" Details="Single instance option. Allowing multiple instances can be disabled in the Grind and tray options." />
 			<Note Type="Fixed" Details="Fixed replaces being one character out on the first line of a UTF encoded file." />
 			<Note Type="Fixed" Details="Fixed ArgumentOutOfRangeException when switching between Whole File and Matches Only after a Replace." />
 		</ProductVersion>
-		<ProductVersion Number="0.21" Date="2016-05-19">
+		<ProductVersion Number="0.21" Date="2016-05-19" IsLive="true">
 			<Note Type="Fixed" Details="In-application updating now gives more control to the user during the installation. Was previously overly aggressive in automatically closing applications during the installation. The first update to 0.21+ is still aggressive, but it should be better from then on." />
 		</ProductVersion>
-		<ProductVersion Number="0.20" Date="2016-05-05">
+		<ProductVersion Number="0.20" Date="2016-05-05" IsLive="true">
 			<Note Type="New" Details="Added command line interface, which exports results to a tab separated file. Get help with Grind.CommandLine.exe /?" />
 		</ProductVersion>
-		<ProductVersion Number="0.19" Date="2016-04-15">
+		<ProductVersion Number="0.19" Date="2016-04-15" IsLive="true">
 			<Note Type="Changed" Details="Overhauled the update system. Checks for updates at startup. Update release notes can be viewed prior to downloading. Updates can be downloaded and installed with a single click. See [HELP#updates] for details." />
 			<Note Type="Changed" Details="Overhauled the error reporting system. Error reports are now logged directly in the bug tracking system, rather than by email." />
 		</ProductVersion>
-		<ProductVersion Number="0.18" Date="2016-03-28">
+		<ProductVersion Number="0.18" Date="2016-03-28" IsLive="true">
 			<Note Type="Fixed" Details="Fixed crash at startup if PATH environment variable included quoted entries." />
 			<Note Type="Fixed" Details="Reinstated support for UNC search paths. Was inadvertently broken when Pri.LongPath was introduced in v0.16" />
 		</ProductVersion>
-		<ProductVersion Number="0.17" Date="2016-03-23">
+		<ProductVersion Number="0.17" Date="2016-03-23" IsLive="true">
 			<Note Type="New" Details="Notification tray icon that enables global hot keys for running Grind (Windows+G), running with the current selected text (Windows+S), or running with the current clipboard text (Windows+K). The tray icon is enabled during installation or in Options &gt; General &gt; Integration. Hot keys can be customised by right-clicking on the tray icon and selecting Options. See [HELP#tray] for more details." />
 			<Note Type="New" Details="Customise syntax highlighting file extensions in Options &gt; File Contents." />
 			<Note Type="Changed" Details="Simplified how the Match Case and Match Whole Word options are handled. Makes no difference to the user, but makes the code easier to maintain." />
 		</ProductVersion>
-		<ProductVersion Number="0.16" Date="2015-10-29">
+		<ProductVersion Number="0.16" Date="2015-10-29" IsLive="true">
 			<Note Type="New" Details="Syntax highlighting of SQL files." />
 			<Note Type="Changed" Details="Attachments are now zipped when emailing error reports." />
 			<Note Type="Fixed" Details="Fixed error when searching long directory paths. Now uses Pri.LongPath for all path operations." />
 		</ProductVersion>
-		<ProductVersion Number="0.15" Date="2015-09-06">
+		<ProductVersion Number="0.15" Date="2015-09-06" IsLive="true">
 			<Note Type="Fixed" Details="Fixed crash when retrieving file icons in Windows 10." />
 		</ProductVersion>
-		<ProductVersion Number="0.14" Date="2015-08-30">
+		<ProductVersion Number="0.14" Date="2015-08-30" IsLive="true">
 			<Note Type="New" Details="Switching between &quot;whole file&quot; and &quot;matches only&quot; now retains the current cursor position as closely as possible." />
 			<Note Type="Changed" Details="Updated installer .NET check to accommodate .NET Framework 4.6" />
 			<Note Type="Fixed" Details="Fixed error when trying to search UNC paths." />
 		</ProductVersion>
-		<ProductVersion Number="0.13" Date="2015-07-10">
+		<ProductVersion Number="0.13" Date="2015-07-10" IsLive="true">
 			<Note Type="New" Details="Can now use Ctrl+Left and Ctrl+Right to navigate to previous and next matches. See [HELP#navigation] for details." />
 			<Note Type="Fixed" Details="Now retains existing newlines at the end of files during replace. Previously these were removed." />
 		</ProductVersion>
-		<ProductVersion Number="0.12" Date="2014-09-04">
+		<ProductVersion Number="0.12" Date="2014-09-04" IsLive="true">
 			<Note Type="New" Details="Added regular expression builder buttons with quick links to common regular expression elements." />
 			<Note Type="New" Details="Changed &quot;exclude extension&quot; to a more general &quot;exclusions&quot; option, which allows file and folder masks using ? and * wildcards. Set in Options &gt; Search &gt; Exclusions" />
 			<Note Type="Fixed" Details="Interface update routines could sometimes be called from the wrong thread." />
 		</ProductVersion>
-		<ProductVersion Number="0.11" Date="2014-06-06">
+		<ProductVersion Number="0.11" Date="2014-06-06" IsLive="true">
 			<Note Type="New" Details="Replace now supports regular expression replacing. See [HELP#replace] for details." />
 			<Note Type="New" Details="Files for replacing can be selected or un-selected using the tick boxes. Click or right-click on the column header to tick or un-tick all items at once." />
 			<Note Type="New" Details="Next/previous match buttons now move to the next/previous file at the last/first match. Can be disabled in the Options screen." />
@@ -354,14 +354,14 @@
 			<Note Type="New" Details="Syntax highlighting of Visual Basic and Python files." />
 			<Note Type="Changed" Details="Updated all third party components to the latest versions." />
 		</ProductVersion>
-		<ProductVersion Number="0.10" Date="2014-04-24">
+		<ProductVersion Number="0.10" Date="2014-04-24" IsLive="true">
 			<Note Type="New" Details="Replace text now has history." />
 			<Note Type="Fixed" Details="Now retains file encoding and new line style during replace. Previously turned all replaced files into UTF-8 with CRLF new lines." />
 			<Note Type="Fixed" Details="Detects and disallows regular expression searches that match all characters, such as &quot;dog||cat&quot;." />
 			<Note Type="Fixed" Details="Detects and reports folders that are too long (maximum of 248 characters)." />
 			<Note Type="Fixed" Details="Limited thread creation when searching network drives. Appears to improve search performance." />
 		</ProductVersion>
-		<ProductVersion Number="0.9" Date="2014-04-05">
+		<ProductVersion Number="0.9" Date="2014-04-05" IsLive="true">
 			<Note Type="New" Details="Can now replace matches with a simple literal replace function. See [HELP#replace] for details." />
 			<Note Type="New" Details=" Can perform &quot;whole word only&quot; searches." />
 			<Note Type="New" Details="Made &quot;match case&quot; and &quot;match whole word only&quot; options available on the ribbon interface." />
@@ -370,18 +370,18 @@
 			<Note Type="Fixed" Details="Opening file in text editor would not find correct line in &quot;matches only&quot; mode." />
 			<Note Type="Fixed" Details="Fixed the &quot;context lines&quot; option not being saved correctly." />
 		</ProductVersion>
-		<ProductVersion Number="0.8" Date="2013-03-12">
+		<ProductVersion Number="0.8" Date="2013-03-12" IsLive="true">
 			<Note Type="New" Details="Can now search directly from the ribbon interface. Change search options in Options &gt; Search. Alt+S, Alt+M and ALt+F to jump to search boxes. Old search dialog is available as advanced search. Menu and toolbar interface is as it was before. See [HELP#advancedoptions] for details." />
 			<Note Type="Changed" Details="Stop search shortcut changed to Ctrl+Break (the old Ctrl+X shortcut would cut selected text from the search boxes)." />
 			<Note Type="Changed" Details="Start-up speed improvements." />
 			<Note Type="Fixed" Details="Fixed occasional timing/ordering problems at start-up on Windows 8." />
 		</ProductVersion>
-		<ProductVersion Number="0.7" Date="2013-02-08">
+		<ProductVersion Number="0.7" Date="2013-02-08" IsLive="true">
 			<Note Type="New" Details="Can drag files from the results list into other applications, such as Visual Studio, Notepad++, Explorer etc." />
 			<Note Type="Changed" Details="Now stores settings in a SQLite database. This reduces some of the oddities that could be seen when running multiple instances and changing settings in each. Imports existing settings into the database on first run." />
 			<Note Type="Changed" Details="Improved reporting (in the search dialog) of the reasons why search criteria might be invalid (such as a previously searched folder no longer existing)." />
 		</ProductVersion>
-		<ProductVersion Number="0.6" Date="2012-10-08">
+		<ProductVersion Number="0.6" Date="2012-10-08" IsLive="true">
 			<Note Type="New" Details="Can switch between the ribbon interface and a more traditional menu and toolbar interface. See [HELP#menuandtoolbar] for details." />
 			<Note Type="New" Details="Can specify a custom text editor to open files in within the Options screen." />
 			<Note Type="New" Details="Can navigate matches with just the cursor keys when focus is on the results list. Up and Down move between files, Left and Right move between matches within a file.  See [HELP#navigation] for details." />
@@ -389,26 +389,26 @@
 			<Note Type="New" Details="Syntax highlighting of Pascal/Delphi files." />
 			<Note Type="Fixed" Details="Repeating a search on a now invalid location caused an unhandled error." />
 		</ProductVersion>
-		<ProductVersion Number="0.5" Date="2012-08-23">
+		<ProductVersion Number="0.5" Date="2012-08-23" IsLive="true">
 			<Note Type="New" Details="Added shell extension. Can now start a search by right-clicking on a folder and selecting &quot;Search with Grind&quot;. See [HELP#shellextension] for details." />
 			<Note Type="New" Details="Added splash screen to give more immediate feedback that Grind is in fact launching." />
 			<Note Type="Changed" Details="Start-up speed improvements." />
 			<Note Type="Changed" Details="Scrolling through results list no longer shows each file as it goes along. Results in faster scrolling and less disc reading." />
 			<Note Type="Changed" Details="Tidied up the ribbon interface a bit." />
 		</ProductVersion>
-		<ProductVersion Number="0.4" Date="2012-07-16">
+		<ProductVersion Number="0.4" Date="2012-07-16" IsLive="true">
 			<Note Type="New" Details="Added Options screen." />
 			<Note Type="New" Details="Shows matches in the scrollbar. Can be disabled in the Options screen." />
 			<Note Type="Fixed" Details="Search could sometimes fail due to threading issues while loading internal resources." />
 		</ProductVersion>
-		<ProductVersion Number="0.3" Date="2012-06-26">
+		<ProductVersion Number="0.3" Date="2012-06-26" IsLive="true">
 			<Note Type="New" Details="Recently used criteria files are listed in the ribbon menu." />
 			<Note Type="Changed" Details="Moved log files from installation folder to profile folder." />
 			<Note Type="Changed" Details="Improved catching and logging of errors during searching." />
 			<Note Type="Fixed" Details="Failed to open files in Notepad." />
 			<Note Type="Fixed" Details="Fixed searches not completing under certain circumstances." />
 		</ProductVersion>
-		<ProductVersion Number="0.2" Date="2012-06-13">
+		<ProductVersion Number="0.2" Date="2012-06-13" IsLive="true">
 			<Note Type="New" Details="Shows first match when file is selected." />
 			<Note Type="New" Details="Buttons to move to first, last, next and previous matches." />
 			<Note Type="New" Details="Save and load search criteria to and from file." />
@@ -416,35 +416,34 @@
 			<Note Type="Fixed" Details="Copying filename or location to clipboard could sometimes lock the app." />
 			<Note Type="Fixed" Details="Fixed highlighting adjacent matches not always working." />
 		</ProductVersion>
-		<ProductVersion Number="0.1" Date="2012-04-29">
+		<ProductVersion Number="0.1" Date="2012-04-29" IsLive="true">
 			<Note Type="New" Details="First release" />
 		</ProductVersion>
 	</Product>
 
-	<Product ID="AlanBroad.TimeKeeper" NewDownloadURL="" DownloadURL="">
-		<ProductVersion Number="2.04" Date="2024-01-11">
+	<Product ID="AlanBroad.TimeKeeper" DownloadURL="">
+		<ProductVersion Number="2.04" Date="2024-01-11" IsLive="true">
 			<Note Type="New" Details="Can now have a different length of working day per day" />
 		</ProductVersion>
-		<ProductVersion Number="2.03" Date="2021-11-02">
+		<ProductVersion Number="2.03" Date="2021-11-02" IsLive="true">
 			<Note Type="Changed" Details="Turned off month grouping by default to speed up the log display" />
 		</ProductVersion>
-		<ProductVersion Number="2.02" Date="2021-07-06">
+		<ProductVersion Number="2.02" Date="2021-07-06" IsLive="true">
 			<Note Type="New" Details="Added volume settings to alarm sounds" />
 		</ProductVersion>
-		<ProductVersion Number="2.01" Date="2021-03-12">
+		<ProductVersion Number="2.01" Date="2021-03-12" IsLive="true">
 			<Note Type="New" Details="Added alarm sounds" />
 		</ProductVersion>
-		<ProductVersion Number="2.00" Date="2018-08-16">
+		<ProductVersion Number="2.00" Date="2018-08-16" IsLive="true">
 			<Note Type="New" Details="First release" />
 		</ProductVersion>
 	</Product>
 
-	<Product ID="AlanBroad.Hestia.2" Version="2.0.0" Date="31 May 2011" DateAsDate="2011-05-31 16:26:00" NewDownloadURL="" DownloadURL="" 
-			 ReleaseNotesURL="https://sites.google.com/site/happycatshome/development/saturn-2/version-history" />
+	<Product ID="AlanBroad.Hestia.2" DownloadURL="" ReleaseNotesURL="https://sites.google.com/site/happycatshome/development/saturn-2/version-history" />
 
-	<Product ID="AlanBroad.Kiefer" Version="0.00" Date="12 March 2013" DateAsDate="2013-03-12 13:36:00" NewDownloadURL="" DownloadURL="" />
+	<Product ID="AlanBroad.Kiefer" DownloadURL="" />
 
-	<Product ID="AlanBroad.SafePad2" NewDownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2/SafePad.2.Setup.exe" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2/SafePad.2.Setup.exe">
+	<Product ID="AlanBroad.SafePad2" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2/SafePad.2.Setup.exe">
 		<ProductVersion Number="2.05" Date="2020-02-11" IsLive="true">
 			<Note Type="Fixed" Details="Fixed window placement on high-dpi Windows 10." />
 			<Note Type="Fixed" Details="Improved rendering quality on high-dpi Windows 10." />
