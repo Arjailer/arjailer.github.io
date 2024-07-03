@@ -3,7 +3,7 @@
 
 	<Product ID="AlanBroad.Grind" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
 		<ProductVersion Number="1.54" Date="2024-07-03" IsLive="false">
-			<Note Type="Fixed" Details="Microsoft changed the OneDrive url format which broke Grind's update checking. Changed the update check to use a GitHub link instead." />
+			<Note Type="Fixed" Details="Microsoft changed the OneDrive url format which broke Grind's update checking. Changed the update check to use a file hosted on arjailer.uk instead." />
 			<Note Type="Fixed" Details="Lots of tweaks behind the scenes as a result of tidying code." />
 			<Note Type="Changed" Details="Improved logging during startup." />
 			<Note Type="Changed" Details="Updated third party components." />
