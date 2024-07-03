@@ -2,8 +2,9 @@
 <Products>
 
 	<Product ID="AlanBroad.Grind" Version="1.53" Date="29 May 2024" DateAsDate="2024-05-29 15:34:00" NewDownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
-		<ProductVersion Number="1.54" Date="2024-07-15" IsLive="false">
-			<Note Type="Fixed" Details="Some more tweaks behind the scenes as a result of tidying code." />
+		<ProductVersion Number="1.54" Date="2024-07-03" IsLive="false">
+			<Note Type="Fixed" Details="Microsoft changed the OneDrive url format which broke Grind's update checking. Changed the update check to use a GitHub link instead." />
+			<Note Type="Fixed" Details="Lots of tweaks behind the scenes as a result of tidying code." />
 			<Note Type="Changed" Details="Improved logging during startup." />
 			<Note Type="Changed" Details="Updated third party components." />
 			<Note Type="Changed" Details="Removed unused features: menu and toolbar interface, advanced search button and command line tool" />
@@ -13,10 +14,10 @@
 			<Note Type="Changed" Details="Changed where the automatic update is launched from to avoid it being quarantined by supposedly intelligent security software that doesn't like it being launched from the user's temp folder." />
 			<Note Type="Changed" Details="Updated third party components." />
 			<Note Type="Changed" Details="Due to lack of use and to allow for future user interface changes, the following features will be removed in the next update:&lt;br/&gt;&lt;br/&gt;
-				The menu and toolbar interface&lt;br/&gt;
-				The advanced search button&lt;br/&gt;
-				The command line tool&lt;br/&gt;&lt;br/&gt;
-				Warnings about these removals have been added in various places and the Advanced Search button is now hidden by default (for the time being it can be re-enabled in Options if required)." />
+			                              The menu and toolbar interface&lt;br/&gt;
+			                              The advanced search button&lt;br/&gt;
+			                              The command line tool&lt;br/&gt;&lt;br/&gt;
+			                              Warnings about these removals have been added in various places and the Advanced Search button is now hidden by default (for the time being it can be re-enabled in Options if required)." />
 		</ProductVersion>
 		<ProductVersion Number="1.52" Date="2024-04-17" IsLive="true">
 			<Note Type="New" Details="Shows the count of ticked files and matches in the status bar." />
@@ -222,8 +223,8 @@
 		<ProductVersion Number="1.05" Date="2017-09-20" IsLive="true">
 			<Note Type="New" Details="Added warning when search includes large files. Can chose to search the large files, exclude them, or stop the search. Default size is 250MB, which can be changed in Options &gt; Search &gt; Large files." />
 			<Note Type="Changed" Details="Improved the handling of large files.&lt;br/&gt;
-			The text viewer now reports when files are too large to display instead of just crashing. The text viewer has to load the entire file before it can be displayed, which restricts the size of files it can display. The largest text file successfully searched and displayed on 64-bit Windows was 900MB (which took 15 seconds to search for a three character match, and another 30 seconds to load and display the contents). Larger files will be searched, but not displayed in Grind.&lt;br/&gt;
-			The binary viewer pages the file into memory as you scroll, so it can display much larger files. The largest binary file successfully searched and displayed on 64-bit Windows was 34GB (which took 1 hour 20 minutes to search for a three character match, and then displayed the contents almost instantly)." />
+			                              The text viewer now reports when files are too large to display instead of just crashing. The text viewer has to load the entire file before it can be displayed, which restricts the size of files it can display. The largest text file successfully searched and displayed on 64-bit Windows was 900MB (which took 15 seconds to search for a three character match, and another 30 seconds to load and display the contents). Larger files will be searched, but not displayed in Grind.&lt;br/&gt;
+			                              The binary viewer pages the file into memory as you scroll, so it can display much larger files. The largest binary file successfully searched and displayed on 64-bit Windows was 34GB (which took 1 hour 20 minutes to search for a three character match, and then displayed the contents almost instantly)." />
 			<Note Type="Fixed" Details="Fixed crash when displaying a file identified as text which contained mixed line-breaks (CR/LF/CRLF)." />
 		</ProductVersion>
 		<ProductVersion Number="1.04" Date="2017-09-06" IsLive="true">
