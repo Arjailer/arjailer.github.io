@@ -6,6 +6,8 @@
 
 _Grind needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0#runtime-desktop-8.0.2) on Windows 10 version 1809 or later_
 
+<sub>Note that Grind versions prior to 1.54 will no longer automatically find updates. This is because Microsoft changed the link format for OneDrive meaning the link that older versions of Grind used to check for updates no longer works. Version 1.54 onward use a new link hosted here at arjailer.uk</sub>
+
 <br />
 
 ---
