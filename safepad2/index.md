@@ -8,6 +8,10 @@ _SafePad 2 needs [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/do
 
 ---
 
+<sub>Note that SafePad 2 versions prior to 2.06 will no longer automatically find updates. This is because Microsoft changed the link format for OneDrive meaning the link that older versions of SafePad 2 used to check for updates no longer works. Version 2.06 onward use a new link hosted here at arjailer.uk</sub>
+
+---
+
 <br />
 
 SafePad 2 is an encrypted text editor for 64-bit Windows.
