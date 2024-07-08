@@ -422,6 +422,10 @@
 	</Product>
 
 	<Product ID="AlanBroad.SafePad2" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2/SafePad.2.Setup.exe">
+		<ProductVersion Number="2.06" Date="2024-07-08" IsLive="true">
+			<Note Type="Fixed" Details="Microsoft changed the OneDrive url format which broke SafePad 2's update checking. Changed the update check to use a file hosted on arjailer.uk instead." />
+			<Note Type="Changed" Details="Upgraded to .NET 8" />
+		</ProductVersion>
 		<ProductVersion Number="2.05" Date="2020-02-11" IsLive="true">
 			<Note Type="Fixed" Details="Fixed window placement on high-dpi Windows 10." />
 			<Note Type="Fixed" Details="Improved rendering quality on high-dpi Windows 10." />
