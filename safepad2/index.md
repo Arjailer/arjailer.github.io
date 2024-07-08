@@ -12,7 +12,7 @@ _SafePad 2 needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/d
 
 ---
 
-<sub>[SafePad v2.05](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2-dotnet-4/SafePad.2.Setup.exe) is the last version that used [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework) and runs on 64-bit Windows 7 service pack 1 or later</sub>
+<sub>[SafePad v2.05](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2-dotnet-4/SafePad.2.Setup.v2.05.exe) is the last version that used [.NET Framework 4.7.2](https://dotnet.microsoft.com/download/dotnet-framework) and runs on 64-bit Windows 7 service pack 1 or later</sub>
 
 <sup>_Note that to downgrade from a later version you should uninstall the later version before installing the earlier version_</sup>
 
