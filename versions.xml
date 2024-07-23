@@ -453,6 +453,10 @@
 	</Product>
 
 	<Product ID="AlanBroad.TimeKeeper" DownloadURL="">
+		<ProductVersion Number="2.05" Date="2024-07-23" IsLive="true">
+			<Note Type="Fixed" Details="Changed the update check to use a file hosted on arjailer.uk" />
+			<Note Type="Changed" Details="Upgraded to .NET 8" />
+		</ProductVersion>
 		<ProductVersion Number="2.04" Date="2024-01-11" IsLive="true">
 			<Note Type="New" Details="Can now have a different length of working day per day" />
 		</ProductVersion>
