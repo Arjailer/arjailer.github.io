@@ -6,6 +6,8 @@ It uses [AES256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) enc
 
 ![SafePad 2 screenshot](SafePad2.png)
 
+<br /><br />
+
 ---
 
 <strong>SafePad v2.06</strong><br />
