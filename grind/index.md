@@ -20,7 +20,7 @@ I started writing it in early 2012 as a simple, fast search tool for my own use.
 
 _Grind needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0#runtime-desktop-8.0.2) on Windows 10 version 1809 or later_
 
-<br />
+<br /><br />
 
 <strong>Windows SmartScreen</strong><br />
 <sub>Note that due to the costs involved the Grind installer is unsigned, and therefore running the installer will probably trigger <strong>Windows SmartScreen</strong>.</sub><br />
