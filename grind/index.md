@@ -12,10 +12,10 @@ I started writing it in early 2012 as a simple, fast search tool for my own use.
 <sup>31 July 2024</sup>
 
 [Download installer](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)<br />
-<sup>11.4MB</sup>
+<sup>11.4 MB</sup>
 <br />
 [Download zip](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.zip)<br />
-<sup>16.3MB</sup>
+<sup>15.2 MB</sup>
 <br />
 
 _Grind needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0#runtime-desktop-8.0.2) on Windows 10 version 1809 or later_
