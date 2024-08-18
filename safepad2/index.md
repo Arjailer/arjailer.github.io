@@ -24,7 +24,7 @@ _SafePad 2 needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/d
 <sub>Note that due to the costs involved the SafePad 2 installer is unsigned, and therefore running the installer will probably trigger <strong>Windows SmartScreen</strong>.</sub><br />
 <sub>Depending how Windows is configured you may have to click <strong>More Info</strong> then <strong>Run Anyway</strong> to start the installer, or it may block the installer entirely.</sub><br />
 <sub>If this happens you can unblock the installer by running the following commands in PowerShell:</sub><br />
-<code>cd $Env:HOMEPATH\Downloads</code><br />
+<code>cd (New-Object -ComObject Shell.Application).NameSpace('shell:Downloads').Self.Path</code><br />
 <code>Unblock-File SafePad.2.Setup.exe</code>
 
 <strong>Updating with older versions</strong><br />
