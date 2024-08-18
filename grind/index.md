@@ -28,7 +28,6 @@ _Grind needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/downl
 <sub>If this happens you can either try the zip version, or you can unblock the installer by running the following commands in PowerShell:</sub><br />
 <code>cd $Env:HOMEPATH\Downloads</code><br />
 <code>Unblock-File Grind.Setup.exe</code>
-<sub></sub>
 
 <strong>Updating with older versions</strong><br />
 <sub>Note that Grind versions prior to 1.54 will no longer automatically find updates. This is because Microsoft changed the link format for OneDrive meaning the link that older versions of Grind used to check for updates no longer works. Version 1.54 onward uses a new link hosted here at arjailer.uk</sub>
