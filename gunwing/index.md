@@ -24,4 +24,4 @@ _Gun Wing itself should run on anything from Windows 95 onward, but the installe
 <sub>Note that due to the costs involved the Gun Wing installer is unsigned, and therefore running the installer will probably trigger <strong>Windows SmartScreen</strong>.</sub><br />
 <sub>Depending how Windows is configured you may have to click <strong>More Info</strong> then <strong>Run Anyway</strong> to start the installer, or it may block the installer entirely.</sub><br />
 <sub>If this happens you can unblock the installer by running the following command in PowerShell:</sub><br />
-<codeUnblock-File "$((New-Object -ComObject Shell.Application).NameSpace('shell:Downloads').Self.Path)\GunWing.Setup.exe"</code>
+<code>Unblock-File "$((New-Object -ComObject Shell.Application).NameSpace('shell:Downloads').Self.Path)\GunWing.Setup.exe"</code>
