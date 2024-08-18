@@ -26,7 +26,7 @@ _Grind needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/downl
 <sub>Note that due to the costs involved the Grind installer is unsigned, and therefore running the installer will probably trigger <strong>Windows SmartScreen</strong>.</sub><br />
 <sub>Depending how Windows is configured you may have to click <strong>More Info</strong> then <strong>Run Anyway</strong> to start the installer, or it may block the installer entirely.</sub><br />
 <sub>If this happens you can either try the zip version, or you can unblock the installer by running the following command in PowerShell:</sub><br />
-<code>cd (New-Object -ComObject Shell.Application).NameSpace('shell:Downloads').Self.Path | Unblock-File Grind.Setup.exe</code>
+<code>Unblock-File "$((New-Object -ComObject Shell.Application).NameSpace('shell:Downloads').Self.Path)\Grind.Setup.exe"</code>
 
 <strong>Updating with older versions</strong><br />
 <sub>Note that Grind versions prior to 1.54 will no longer automatically find updates. This is because Microsoft changed the link format for OneDrive meaning the link that older versions of Grind used to check for updates no longer works. Version 1.54 onward uses a new link hosted here at arjailer.uk</sub>
