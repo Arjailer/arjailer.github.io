@@ -13,7 +13,7 @@ It uses [AES256](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard) enc
 <strong>SafePad v2.06</strong><br />
 <sup>8 July 2024</sup>
 
-[Download installer](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2/SafePad.2.Setup.exe)<br />
+[Download](https://github.com/Arjailer/arjailer.github.io/releases/download/SafePad-2/SafePad.2.Setup.exe)<br />
 <sup>5.6 MB</sup>
 
 _SafePad 2 needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0#runtime-desktop-8.0.2) on Windows 10 version 1809 or later_
