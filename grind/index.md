@@ -11,7 +11,7 @@ I started writing it in early 2012 as a simple, fast search tool for my own use.
 <strong>Grind v1.55</strong><br />
 <sup>31 July 2024</sup>
 
-[Download installer](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)<br />
+[Download](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)<br />
 <sup>11.4 MB</sup>
 <br />
 
