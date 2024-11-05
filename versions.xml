@@ -2,6 +2,11 @@
 <Products>
 
 	<Product ID="AlanBroad.Grind" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
+		<ProductVersion Number="1.56" Date="2024-11-05" IsLive="true">
+			<Note Type="New" Details="Added button to toggle the display of whitespace characters on and off." />
+			<Note Type="New" Details="Added ability to zoom the text display with Ctrl+mousewheel, Ctrl+ and Ctrl-" />
+			<Note Type="Fixed" Details="Local find in file values weren't getting re-applied when switching between different file type viewers, which could cause a crash on the first switch." />
+		</ProductVersion>
 		<ProductVersion Number="1.55" Date="2024-07-31" IsLive="true">
 			<Note Type="Fixed" Details="Browse button on the ribbon had no image, was tiny and was difficult to click." />
 			<Note Type="Changed" Details="Updated third party components." />
