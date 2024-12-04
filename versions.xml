@@ -2,9 +2,6 @@
 <Products>
 
 	<Product ID="AlanBroad.Grind" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
-		<ProductVersion Number="1.57" Date="2024-12-01" IsLive="false">
-			<Note Type="Fixed" Details="Test, test, test ..." />
-		</ProductVersion>
 		<ProductVersion Number="1.56" Date="2024-11-05" IsLive="true">
 			<Note Type="New" Details="Added button to toggle the display of line numbers on and off." />
 			<Note Type="New" Details="Added button to toggle the display of whitespace characters on and off." />
