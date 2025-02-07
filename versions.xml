@@ -2,6 +2,11 @@
 <Products>
 
 	<Product ID="AlanBroad.Grind" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
+		<ProductVersion Number="1.57" Date="2025-02-07" IsLive="true">
+			<Note Type="New" Details="You can now change the online search engine from Google to whatever you like in Options. There are some pre-defined choices, or you can define a custom url." />
+			<Note Type="Changed" Details="Visual Studio App Center is being closed down in March 2025, so the automatic crash and usage reporting is now implemented with Microsoft Application Insights. The data being reported is the same as it was before, it's just being sent to a different service." />
+			<Note Type="Changed" Details="Updated third party components." />
+		</ProductVersion>
 		<ProductVersion Number="1.56" Date="2024-11-05" IsLive="true">
 			<Note Type="New" Details="Added button to toggle the display of line numbers on and off." />
 			<Note Type="New" Details="Added button to toggle the display of whitespace characters on and off." />
