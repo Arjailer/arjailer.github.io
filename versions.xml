@@ -2,6 +2,11 @@
 <Products>
 
 	<Product ID="AlanBroad.Grind" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
+		<ProductVersion Number="1.58" Date="2025-07-11" IsLive="true">
+			<Note Type="Changed" Details="Updated the ribbon control style." />
+			<Note Type="Changed" Details="Tweaked some of the keyboard shortcuts." />
+			<Note Type="Changed" Details="Lots of small behind-the-scenes tweaks." />
+		</ProductVersion>
 		<ProductVersion Number="1.57" Date="2025-02-07" IsLive="true">
 			<Note Type="New" Details="You can now change the online search engine from Google to whatever you like in Options. There are some pre-defined choices, or you can define a custom url." />
 			<Note Type="Changed" Details="Visual Studio App Center is being closed down in March 2025, so the automatic crash and usage reporting is now implemented with Microsoft Application Insights. The data being reported is the same as it was before, it's just being sent to a different service." />
