@@ -8,11 +8,11 @@ I started writing it in early 2012 as a simple, fast search tool for my own use.
 
 ---
 
-<strong>Grind v1.57</strong><br />
-<sup>7 February 2025</sup>
+<strong>Grind v1.58</strong><br />
+<sup>15 July 2025</sup>
 
 [Download](https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe)<br />
-<sup>10.9 MB</sup>
+<sup>12 MB</sup>
 <br />
 
 _Grind needs [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0#runtime-desktop-8.0.2) on Windows 10 version 1809 or later_

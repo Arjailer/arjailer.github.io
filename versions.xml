@@ -2,10 +2,11 @@
 <Products>
 
 	<Product ID="AlanBroad.Grind" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
-		<ProductVersion Number="1.58" Date="2025-07-11" IsLive="false">
+		<ProductVersion Number="1.58" Date="2025-07-15" IsLive="true">
 			<Note Type="Changed" Details="Updated the ribbon control style." />
 			<Note Type="Changed" Details="Tweaked some of the keyboard shortcuts." />
 			<Note Type="Changed" Details="Lots of small behind-the-scenes tweaks." />
+			<Note Type="Changed" Details="Updated third party components." />
 		</ProductVersion>
 		<ProductVersion Number="1.57" Date="2025-02-07" IsLive="true">
 			<Note Type="New" Details="You can now change the online search engine from Google to whatever you like in Options. There are some pre-defined choices, or you can define a custom url." />
