@@ -475,7 +475,7 @@
 	</Product>
 
 	<Product ID="AlanBroad.TimeKeeper" DownloadURL="">
-		<ProductVersion Number="2.06" Date="2026-05-06" IsLive="true">
+		<ProductVersion Number="2.06" Date="2026-04-06" IsLive="true">
 			<Note Type="Changed" Details="UI tidy up" />
 			<Note Type="Changed" Details="Upgraded to .NET 10" />
 		</ProductVersion>
