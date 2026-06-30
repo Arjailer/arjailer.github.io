@@ -2,6 +2,12 @@
 <Products>
 
 	<Product ID="AlanBroad.Grind" DownloadURL="https://github.com/Arjailer/arjailer.github.io/releases/download/Grind/Grind.Setup.exe">
+		<ProductVersion Number="1.59" Date="2026-06-30" IsLive="true">
+			<Note Type="Changed" Details="Upgraded to .NET 10" />
+			<Note Type="Changed" Details="Improved performance of binary file viewer." />
+			<Note Type="Changed" Details="Some small behind-the-scenes tweaks." />
+			<Note Type="Changed" Details="Updated third party components." />
+		</ProductVersion>
 		<ProductVersion Number="1.58" Date="2025-07-15" IsLive="true">
 			<Note Type="Changed" Details="Updated the ribbon control style." />
 			<Note Type="Changed" Details="Tweaked some of the keyboard shortcuts." />
